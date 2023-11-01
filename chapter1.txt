@@ -1,1 +1,1 @@
-first excercise fro git verison control
+first excercise
